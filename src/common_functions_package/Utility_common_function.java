@@ -91,14 +91,6 @@ public class Utility_common_function {
 	}
 	 
 	
-	private String kk = "kkk";
-	
-	 private String dd()
-	{
-		String kk = "dd";
-		return kk;
-	}
-	 String kd = "kkk";
 	
 	
 	
