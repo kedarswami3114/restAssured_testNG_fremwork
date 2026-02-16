@@ -7,7 +7,7 @@ import io.restassured.RestAssured;
 
 public class API_common_function {
 
-	// these are testing codes of your status code and requestbody
+	// these are testing codes of your status code and requestbody only
 		public static int statuscode(String baseURI, String resource, String responsebody) {
 			
 			RestAssured.baseURI = baseURI;
@@ -29,3 +29,4 @@ public class API_common_function {
 			return res_body;
    }
 }
+
